@@ -9,7 +9,7 @@ ___
 ### Features:
 - Built using Ruby on Rails
 - PostgreSQL for database queries
-- Twitter Bootstrap3 for CSS and UI components
+- Bootstrap4 for CSS and UI components
 - Modals for course/lesson submissions and card payments
 - Amazon Web Services (AWS) for photo storage
 - Devise gem for user authentication
@@ -18,7 +18,6 @@ ___
 - CarrierWave gem for image uploading
 - MiniMagick gem for image resizing
 - Stripe integration for card payments
-- jQuery utilized for drag-and-drop reordering of courses and lessons
 - User dashboard lists courses uploaded by user and courses in which they are enrolled
 
 
