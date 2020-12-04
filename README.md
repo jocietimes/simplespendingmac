@@ -3,7 +3,7 @@
 Simple Spending is a dual-faced, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
   
   
-[View the deployed application]https://simplesaving-jocelyn-mellein.herokuapp.com/
+[View the deployed application](https://simplesaving-jocelyn-mellein.herokuapp.com/)
 ___
 
 ### Features:
@@ -26,4 +26,4 @@ ___
 ### Screenshot:
 
 
-(https://user-images.githubusercontent.com/69730427/101116192-7a1e3300-3599-11eb-9538-c22ebafcbc11.png)
+![Screen Shot 2020-12-03 at 7 41 48 PM](https://user-images.githubusercontent.com/69730427/101116459-016ba680-359a-11eb-9c99-18bde1a886a0.png)
